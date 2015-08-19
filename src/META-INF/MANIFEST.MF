@@ -1,0 +1,20 @@
+Name: RRegDiagGraph
+Dialog-Specs: RRegDiagGraph.spd
+Summary: Provides a large set of diagnostic plots and some tests for r
+ egresssion analysis (from Fox/Weisberg: An R Companion to Applied Reg
+ ression, 2011)
+Description: Plots and some tests for regresssion analysis: Residual's
+  Density Plot , Residual's Q-Q Plot, Hat Values, Cook's Distance, Inf
+ luence Plot, Residual Plots (also vs. the fitted values), Boxplots of
+  Various Power Transformations, Box-Cox Transformation, Inverse Trans
+ formation Plot, Inverse Response Plot, Spread Level Plot, Added-Varia
+ ble Plots, Leverage Plots, Component + Residual Plots, CERES Plots, O
+ utlier Test, Breusch-Pagan Test, Box-Tidwell Transformations.
+Author: Dr. Hans Grüner (http://gruener.userpage.fu-berlin.de)
+Version: 9.0.1
+Product-Version: 19
+Date: 10.03.2012
+Links: http://gruener.userpage.fu-berlin.de
+Categories: dialog, graphics, r, spss, statistics, regression
+Plugins: R
+R-Packages: car
