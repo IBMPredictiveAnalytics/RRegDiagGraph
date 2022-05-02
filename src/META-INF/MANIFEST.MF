@@ -11,7 +11,7 @@ Description: Plots and some tests for regresssion analysis: Residual's
  ble Plots, Leverage Plots, Component + Residual Plots, CERES Plots, O
  utlier Test, Breusch-Pagan Test, Box-Tidwell Transformations.
 Author: Dr. Hans Grüner (http://gruener.userpage.fu-berlin.de)
-Version: 9.0.1
+Version: 9.0.3
 Product-Version: 19
 Date: 10.03.2012
 Links: http://gruener.userpage.fu-berlin.de
