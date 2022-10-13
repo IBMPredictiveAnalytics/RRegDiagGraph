@@ -1,4 +1,5 @@
 Name: RRegDiagGraph
+Display-Name: Regression Diagnostic Tests Graph
 Dialog-Specs: RRegDiagGraph.spd
 Summary: Provides a large set of diagnostic plots and some tests for r
  egresssion analysis (from Fox/Weisberg: An R Companion to Applied Reg
